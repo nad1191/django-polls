@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center; 
+}
+
+.comments {
+    background-color: pink;
+}
+
+#three {
+    background-color: yellow;
+}
